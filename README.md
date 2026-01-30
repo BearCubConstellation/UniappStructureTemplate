@@ -33,4 +33,4 @@
 
 ## License
 
-未指定
+MIT License © 2026 Cymrise
